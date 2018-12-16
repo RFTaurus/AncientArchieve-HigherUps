@@ -23,3 +23,11 @@
 	margin: 0% auto;
 	width: 10vw;
 }
+
+.nav-danger{
+	background-color: #dd4b39 !important;
+}
+
+.nav-less-danger{
+	background-color: #ce412e !important;
+}

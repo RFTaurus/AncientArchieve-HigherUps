@@ -91,3 +91,11 @@
   border-radius: 0;
   margin-bottom: 0;
 }
+
+.nav-danger{
+	background-color: #dd4b39 !important;
+}
+
+.nav-less-danger{
+	background-color: #ce412e !important;
+}
